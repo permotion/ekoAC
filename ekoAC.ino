@@ -133,21 +133,6 @@ void loop() {
 
 }
 
-  void RFID_ENABLE(){
-    
-  }
-
-  void RFID_DISABLE(){
-    
-  }
-
-  void SD_ENABLE(){
-    
-  }
-
-  void SD_DISABLE(){
-    
-  }
 
 
 
